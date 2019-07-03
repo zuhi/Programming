@@ -1,3 +1,4 @@
+#Print all possible strings that can be made by placing spaces
 import itertools
 str_="abcd"
 n_space=[1]*(len(str_)-1)
